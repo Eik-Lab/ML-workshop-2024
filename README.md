@@ -1,1 +1,1 @@
-# Mmaskinlæringsworkshop våren 2024
+# Maskinlæringsworkshop våren 2024

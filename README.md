@@ -1,2 +1,1 @@
-# ML-workshop-2024
-Maskinlærings er gøy. Lover 
+# Mmaskinlæringsworkshop våren 2024
